@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-FNB9O02",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/OQcUyS1my7uP7YpfFCr3GuGMK2pJhRPOivgiYy4Btz72H9JPZC/",
+  "gitHubUrl": "https://github.com/halssvx/CICDproject",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
